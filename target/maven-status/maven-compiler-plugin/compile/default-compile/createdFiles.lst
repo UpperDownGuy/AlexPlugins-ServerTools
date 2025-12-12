@@ -1,0 +1,10 @@
+alexplugins\servertools\XRay.class
+alexplugins\servertools\ServertoolsCMD.class
+alexplugins\servertools\XrayCMD.class
+alexplugins\servertools\XRay$1.class
+alexplugins\servertools\MainPlugin.class
+alexplugins\servertools\StopServerCMD$1.class
+alexplugins\servertools\ServerTools.class
+alexplugins\servertools\StopServerCMD.class
+alexplugins\servertools\DisconnectCMD.class
+alexplugins\servertools\XrayTab.class
