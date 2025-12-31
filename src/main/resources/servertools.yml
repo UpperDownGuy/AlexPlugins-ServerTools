@@ -1,0 +1,12 @@
+# Main Configuration File
+plugin:
+  enabled: true
+
+# Configurations
+disconnect:
+  enabled: true
+
+timezones:
+  enabled: false
+  default: "America/New_York" # Select any IANA Timezone Identifier to show as a default
+  requestonjoin: true
