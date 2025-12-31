@@ -8,4 +8,7 @@ Currently, there are 4 slash commands!
 + /stopserver (OP ONLY | Stop the server non-abruptly.)
 + /servertools (OP ONLY | Testing command, with --version flag that shows the version.)
 + /xray (OP ONLY | Modifies XRAY Settings.)
-+ /servertools disable (OP ONLY | Disables the plugin remotely.)
++ /tz (Sets Timezone for PlaceholderAPI)
+
+
+
