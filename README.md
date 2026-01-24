@@ -8,4 +8,4 @@ The project is intentionally structured as a **framework-style plugin**, allowin
 Features and structure may change between releases.
 
 ---
-## Visit the [https://github.com/UpperDownGuy/AlexPlugins-ServerTools/wiki](wiki)!
+## Visit the [wiki](https://github.com/UpperDownGuy/AlexPlugins-ServerTools/wiki)!
